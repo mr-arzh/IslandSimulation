@@ -1,0 +1,34 @@
+
+v
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹É·Ë8ƒå†½§2
+v
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(®¶–ø8ƒå†½§2
+v
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨¥Ä‘8ƒå†½§2
+Œ
+java:S1319D"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µÊï(8ƒå†½§2
+
+java:S1319H"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×Œ˜8ƒå†½§2
+
+java:S1319X"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Æıù‘8ƒå†½§2
+Œ
+java:S1319h"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éÁÑ$8ƒå†½§2
+’
+java:S1319z"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÆÁÑÿÿÿÿÿ8ƒå†½§2
+/
+java:S1700"Rename field "cell"(“¯ì
+8„å†½§2
+7
+java:S1220""Move this file to a named package.8„å†½§2
+]	java:S125-"<This block of commented-out lines of code should be removed.(×¸Íÿùÿÿÿÿ8²å†½§2
+J
+java:S1172S"-Remove this unused method parameter "animal".(á½­ù8³å†½§2
+i
+java:S6201}"LReplace this instanceof check and cast with 'instanceof Herbivore herbivore'(µŒ¼§8´å†½§2
+N
+java:S1905~",Remove this unnecessary cast to "Herbivore".(ñî•ñúÿÿÿÿ8´å†½§2
+X	java:S125„"<This block of commented-out lines of code should be removed.(ÿ×Î8Ÿ°¿§2
+^	java:S125"<This block of commented-out lines of code should be removed.(‹›×Óúÿÿÿÿ8µå†½§2
+D
+java:S1068"(Remove this unused "cell" private field.(“¯ì
+8µå†½§2

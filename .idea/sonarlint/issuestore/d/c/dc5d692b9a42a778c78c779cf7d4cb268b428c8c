@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+@	java:S106"+Replace this use of System.out by a logger.(ÒŠ¨
+@	java:S106"+Replace this use of System.out by a logger.(‚ÊÙ”
+L	java:S106 "+Replace this use of System.out by a logger.(¢ª¿îüÿÿÿÿ8şËÚ¿§2
+O
+java:S1161#":Add the "@Override" annotation above this method signature(ÕŞ$

@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ž—üôûÿÿÿÿ8ÕöÊ¿§2
+G	java:S106"+Replace this use of System.out by a logger.(ÒŠ¨8ÁÞ¢¿§2
+G	java:S106"+Replace this use of System.out by a logger.(‚ÊÙ”8ÁÞ¢¿§2
+L	java:S106!"+Replace this use of System.out by a logger.(¢ª¿îüÿÿÿÿ8ÁÞ¢¿§2
+V
+java:S1161$":Add the "@Override" annotation above this method signature(ÕÞ$8ÂÞ¢¿§2

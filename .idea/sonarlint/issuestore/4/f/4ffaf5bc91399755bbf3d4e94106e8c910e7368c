@@ -1,0 +1,23 @@
+
+L
+java:S1066;"/Merge this if statement with the enclosing one.(äÑ™†8™™Û»§2
+7
+java:S1220""Move this file to a named package.8š™Û»§2
+S
+java:S25893"7Remove this expression which always evaluates to "true"(íƒt8“ü™½§2
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ëÊãõşÿÿÿÿ8µ™Û»§2
+X	java:S125"<This block of commented-out lines of code should be removed.(Ëßš¶8¶™Û»§2
+]	java:S125
+"<This block of commented-out lines of code should be removed.(¨¯«†şÿÿÿÿ8¹™Û»§2
+W
+java:S1161":Add the "@Override" annotation above this method signature(¥©°«8¼™Û»§2
+L	java:S106"+Replace this use of System.out by a logger.(¸ª³˜øÿÿÿÿ8­õß¿§2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ø·ı÷ûÿÿÿÿ8½™Û»§2
+t
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(®Â×Øÿÿÿÿÿ8¾™Û»§2
+]	java:S125?"<This block of commented-out lines of code should be removed.(şÑÂŞşÿÿÿÿ8ŒÄó»§2
+c
+java:S1126O"AReplace this if-then-else statement by a single return statement.(ØŠèıÿÿÿÿ8Ã™Û»§2
+J
+java:S1185V"(Remove this method to simply inherit it.(´õÁ¬şÿÿÿÿ8Ã™Û»§2

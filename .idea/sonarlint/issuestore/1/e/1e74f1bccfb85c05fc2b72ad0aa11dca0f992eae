@@ -1,0 +1,26 @@
+
+{
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÚÍõøÿÿÿÿ8îÆÉ¿§2
+Q
+java:S1066E"/Merge this if statement with the enclosing one.(…Ê®Òþÿÿÿÿ8îÆÉ¿§2
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…Çˆëýÿÿÿÿ8îÆÉ¿§2
+7
+java:S1220""Move this file to a named package.8ïÆÉ¿§2
+T
+java:S2589="7Remove this expression which always evaluates to "true"(ƒåÜ·8†ÇÉ¿§2
+~
+java:S1450"\Remove the "currentPlants" field and declare it as a local variable in the relevant methods.(ƒÖÐ¸ÿÿÿÿÿ8‡ÇÉ¿§2
+[
+java:S5993"9Change the visibility of this constructor to "protected".(íç×êþÿÿÿÿ8‡ÇÉ¿§2
+X	java:S125	"<This block of commented-out lines of code should be removed.(Ëßš¶8ŠÇÉ¿§2
+L	java:S106""+Replace this use of System.out by a logger.(ÿ·¥¢ýÿÿÿÿ8ŒÇÉ¿§2
+]	java:S125#"<This block of commented-out lines of code should be removed.(Ø·ý÷ûÿÿÿÿ8ŒÇÉ¿§2
+t
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(®Â×Øÿÿÿÿÿ8ŒÇÉ¿§2
+]	java:S125,"<This block of commented-out lines of code should be removed.(òŽáøÿÿÿÿ8ÇÉ¿§2
+]	java:S125I"<This block of commented-out lines of code should be removed.(‹µÂÐýÿÿÿÿ8ÇÉ¿§2
+^
+java:S1126T"AReplace this if-then-else statement by a single return statement.(‡ÌÂ˜8ŽÇÉ¿§2
+J
+java:S1185b"(Remove this method to simply inherit it.(´õÁ¬þÿÿÿÿ8ŽÇÉ¿§2

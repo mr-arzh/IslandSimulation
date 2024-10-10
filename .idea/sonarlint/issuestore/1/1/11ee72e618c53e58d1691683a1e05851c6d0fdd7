@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8†À§2
+}
+java:S1450"`Remove the "listOfCellsToMove" field and declare it as a local variable in the relevant methods.(û×ß£8“†À§2
+V
+java:S5993"9Change the visibility of this constructor to "protected".(Ú±†8“†À§2
+^
+java:S1126 "AReplace this if-then-else statement by a single return statement.(á€Á¹8—†À§2
+]	java:S125^"<This block of commented-out lines of code should be removed.(£Ä¶şüÿÿÿÿ8˜†À§2
