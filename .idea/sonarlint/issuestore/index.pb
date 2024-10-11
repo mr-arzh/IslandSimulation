@@ -26,8 +26,6 @@ G
 G
 src/main/java/Duck.java,7/2/7242489e7d567336cffca50bde21e11b4f259699
 H
-src/main/java/Birds.java,a/5/a5928a72dd014861e6b99f2346e683615b6a6784
-H
 src/main/java/Moose.java,8/8/88cbc198c3ea5de08ecd2aa1751d2c24d6aa72b5
 H
 src/main/java/Horse.java,2/0/2023425c24cbae2760bbf6eb309a9012b130dc6f
