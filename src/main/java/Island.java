@@ -9,8 +9,8 @@ public class Island {
     private Random random = new Random();
     private int maxNumberOfAnimals = 5;
     private int maxPlantPerCell = 3;
-    public static int width = 10;
-    public static int height = 2;
+    public static int width = 100;
+    public static int height = 20;
     public static Cell[][] gameField;
 
     private ScheduledExecutorService scheduler;
