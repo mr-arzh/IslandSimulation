@@ -7,15 +7,15 @@ public class Cell {
 
 
     private ArrayList<Animal> listOfAnimals;
-    private int maxAnimalsPerCell = 2;
+    private int maxAnimalsPerCell;
 
     private ArrayList<Plant> plants;
 
     private int maxPlantPerCell;
 
-    public int getMaxPlantPerCell() {
-        return maxPlantPerCell;
-    }
+//    public int getMaxPlantPerCell() {
+//        return maxPlantPerCell;
+//    }
 
     public int getMaxAnimalsPerCell() {
         return maxAnimalsPerCell;
@@ -29,7 +29,7 @@ public class Cell {
 
     public Cell(int maxAnimalsPerType, int maxPlantPerCell, int x, int y) {
         this.listOfAnimals = new ArrayList<>();
-        this.maxAnimalsPerCell = maxAnimalsPerType;
+        this.maxAnimalsPerCell = Island.getMaxNumberOfAnimals();
         this.plants = new ArrayList<>();
         this.maxPlantPerCell = maxPlantPerCell;
         this.x = x;

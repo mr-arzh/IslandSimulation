@@ -45,7 +45,7 @@ public abstract class Animal {
 
         if (!isFoodEnoughInCell()) { // тут будет логика метода в классах наследниках Herbivore/Predator
             listOfCellsToMove = cell.getNeighboringCells();// реализую этот метод в классе Cell
-            if (!listOfCellsToMove.isEmpty()) {
+            //if (!listOfCellsToMove.isEmpty()) {
                 int randomIndex = random.nextInt(listOfCellsToMove.size());
                 Cell targetCell = listOfCellsToMove.get(randomIndex);
                 if (targetCell.getAllAnimals().size() <= targetCell.getMaxAnimalsPerCell()) { //чекаю можно ли добавить новое животное в клетку
@@ -53,7 +53,7 @@ public abstract class Animal {
                     targetCell.addAnimal(this);
                     setCell(targetCell); //устанавливаю новые координаты для пермещенного объекта
                     increaseHunger();
-                }
+
             }
         }
     }

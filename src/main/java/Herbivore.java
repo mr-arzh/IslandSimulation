@@ -8,9 +8,9 @@ public abstract class Herbivore extends Animal {
     private Random random = new Random();
     //private ArrayList<Animal> allAnimals;
 
-    public ArrayList<Plant> getPlantsInCell() {
-        return plantsInCell;
-    }
+//    public ArrayList<Plant> getPlantsInCell() {
+//        return plantsInCell;
+//    }
 
     private ArrayList<Plant> currentPlants;
 
@@ -70,7 +70,7 @@ public abstract class Herbivore extends Animal {
                         Animal newHerbivoreAnimal = AnimalFactory.createAnimal(this.getType(), cell);
                         if (newHerbivoreAnimal != null) {
                             cell.addAnimal(newHerbivoreAnimal);
-                            //System.out.println(this.getSymbol() + " gave birth to " + newHerbivoreAnimal.getSymbol());
+
                         }
                     }
                 }

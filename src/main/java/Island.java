@@ -6,8 +6,10 @@ import java.util.concurrent.TimeUnit;
 
 public class Island {
 
+
+
     private Random random = new Random();
-    private int maxNumberOfAnimals = 5;
+    private  static final int maxNumberOfAnimals = 5;
     private int maxPlantPerCell = 3;
     public static int width = 100;
     public static int height = 20;
@@ -20,10 +22,13 @@ public class Island {
         this.height = height;
         gameField = new Cell[height][width];
         //cellInit();
-        scheduler = Executors.newScheduledThreadPool(1);
+        scheduler = Executors.newScheduledThreadPool(4);
         //fillCells();
     }
 
+    public static int getMaxNumberOfAnimals() {
+        return maxNumberOfAnimals;
+    }
 
     public static Cell getCell(int x, int y) {
 
