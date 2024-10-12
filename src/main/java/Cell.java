@@ -107,9 +107,9 @@ public class Cell {
         for (int xx = -1; xx <= 1; xx++) { //перебираем ячейки от -1; 0; 1 по оси Х
             for (int yy = -1; yy <= 1; yy++) { //перебираем ячейки от -1; 0; 1 по оси Y
                 if (xx == 0 && yy == 0) {
-                    continue; //пропускаем шаг когда ячейка оазывается нас воем месте
+                    continue; //пропускаем шаг когда ячейка оказывается на своем месте(в нулях)
                 }
-                int newX = x + xx;
+                int newX = x + xx; //присваиваю новой переменной Х новое уже смещенное значение
                 int newY = y + yy;
                 if (newX >= 0 && newX < Island.width && newY >= 0 && newY < Island.height) {
                     neighboringCells.add(Island.getCell(newX, newY));

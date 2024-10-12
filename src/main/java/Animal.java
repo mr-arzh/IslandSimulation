@@ -51,7 +51,7 @@ public abstract class Animal {
                 if (targetCell.getAllAnimals().size() <= targetCell.getMaxAnimalsPerCell()) { //чекаю можно ли добавить новое животное в клетку
                     cell.removeAnimal(this);
                     targetCell.addAnimal(this);
-                    setCell(targetCell);
+                    setCell(targetCell); //устанавливаю новые координаты для пермещенного объекта
                     increaseHunger();
                 }
             }
